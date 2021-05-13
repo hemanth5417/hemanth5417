@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **[Mail Me ✉](mailto:kommuri1754@gmail.com)**
 
-- 📄 Know about my experiences [Resume](   )
+- 📄 Know about my experiences [Resume]( https://github.com/hemanth5417/hemanth5417/blob/main/Hemanth_Resume_2021.pdf  )
 
 - ⚡ Fun fact **Love pizzas as much I do? Let's talk about how awesome they are!**
 
