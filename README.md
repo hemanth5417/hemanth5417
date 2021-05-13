@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanth5417" alt="hemanth5417" /></a> </p>
 
-- 🔭 I’m currently working on **Python & Cloud Computing **
+- 🔭 I’m currently working on **Python & Cloud Computing**
 
 - 🌱 I’m currently learning **AWS**
 
